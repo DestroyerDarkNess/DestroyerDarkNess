@@ -1,6 +1,6 @@
 ### Hi I'm Destroyer DarkNess 👋
 
-Welcome to my profile, I am a hobby developer.
+Welcome to my profile, I am a hobby developer. Follow Me Please : [![Pantreon](https://www.patreon.com/S4Lsalsoft)
 
 I am willing to help you in your projects developed in .NET, Speak to my discord: Destroyer#8328.
 
