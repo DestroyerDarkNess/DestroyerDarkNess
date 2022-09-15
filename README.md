@@ -13,6 +13,19 @@ I am willing to help you in your projects developed in .NET, Speak to my discord
 
 <a href="https://profile-counter.glitch.me/DestroyerDarkNess/count.svg"><p align="center"> ⚡ Visitor count ⚡ <br> <img src="https://profile-counter.glitch.me/DestroyerDarkNess/count.svg" /></a>
 
+<!-- Pinned Repositories  -->
+#### Pinned
+
+<p align="center">
+<a href="https://github.com/DestroyerDarkNess/XylonV2">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=XylonV2&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/DestroyerDarkNess/Unmanaged.Net">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Unmanaged.Net&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
+</a>
+</p>
+
 
 <!--
 **DestroyerDarkNess/DestroyerDarkNess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
