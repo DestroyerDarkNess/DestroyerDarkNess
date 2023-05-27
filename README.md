@@ -1,8 +1,11 @@
 ### Hi I'm Destroyer DarkNess 👋
 
-Welcome to my profile, I am a hobby developer. Follow Me Please : ⚡ [Twitter Profile](https://twitter.com/Destroy06933000) 🔭
+⚠️Welcome to my profile, I am an independent developer and I can help you with whatever you need. ✨
 
-I am willing to help you in your projects developed in .NET, Speak to my discord: Destroyer#8328.
+💠I will build your Web Scraper, Desktop App and even make an Android App for you and publish it on the PlayStore. ✅
+
+🔰For more details, contact me on my Discord: Destroyer#8328.
+
 
 [![Dostroyer Github Stats](https://github-readme-stats.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
