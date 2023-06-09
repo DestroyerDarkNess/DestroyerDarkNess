@@ -6,13 +6,17 @@
 
 🔰For more details, contact me on my Discord: Destroyer#8328.
 
+---  
 
-[![Dostroyer Github Stats](https://github-readme-stats.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  	<img src="https://github-readme-stats.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical">
+   <br>  	
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&theme=radical">
+   <br>  
+    <img width=100% src="https://github-profile-trophy.vercel.app/?username=DestroyerDarkNess&column=10"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=DestroyerDarkNess&column=7"/>
-
+---  
 
 <a href="https://profile-counter.glitch.me/DestroyerDarkNess/count.svg"><p align="center"> ⚡ Visitor count ⚡ <br> <img src="https://profile-counter.glitch.me/DestroyerDarkNess/count.svg" /></a>
 
