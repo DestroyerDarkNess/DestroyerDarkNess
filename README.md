@@ -30,6 +30,9 @@
 <span>&nbsp;</span>
 <a href="https://github.com/DestroyerDarkNess/Unmanaged.Net">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Unmanaged.Net&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
+  <hr>
+  <a href="https://github.com/DestroyerDarkNess/DX9ImHook">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
 </a>
 </p>
 
