@@ -32,10 +32,16 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Unmanaged.Net&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
   <hr>
   <a href="https://github.com/DestroyerDarkNess/DX9ImHook">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
+<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
    <span>&nbsp;</span>
   <a href="https://github.com/DestroyerDarkNess/RenderSpy">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=RenderSpy&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
+<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=RenderSpy&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
+      <br><br>
+     <a href="https://github.com/DestroyerDarkNess/NETBuilderInjection">
+<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=NETBuilderInjection&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
+          <span>&nbsp;</span>
+  <a href="https://github.com/DestroyerDarkNess/Universal.FPS.Counter">
+<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Universal.FPS.Counter&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
 </a>
 </p>
 
