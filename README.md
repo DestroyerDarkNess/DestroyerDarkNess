@@ -1,10 +1,6 @@
 ### Hi I'm Destroyer DarkNess 👋
 
-⚠️Welcome to my profile, I am an independent developer and I can help you with whatever you need. ✨
-
-💠I will build your Web Scraper, Desktop App and even make an Android App for you and publish it on the PlayStore. ✅
-
-🔰For more details, contact me on my Discord: Destroyer#8328.
+🔰Contact me on my Discord: Destroyer#8328.
 
 ---  
 
