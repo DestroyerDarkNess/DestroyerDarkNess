@@ -39,6 +39,10 @@
   <a href="https://github.com/DestroyerDarkNess/Universal.FPS.Counter">
 <img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Universal.FPS.Counter&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
 </a>
+         <hr>
+  <a href="https://github.com/DestroyerDarkNess/Wallpapers-HQ">
+<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Wallpapers-HQ&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
+  
 </p>
 
 
