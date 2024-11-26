@@ -28,12 +28,13 @@ Welcome to my GitHub profile! If you need help, 📫 Contact Me, Discord: **Dest
   </a>
 </p>
 <p align="center">
+    <a href="https://github.com/DestroyerDarkNess/RenderSpy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=RenderSpy&theme=radical" width="400px">
+  </a>
   <a href="https://github.com/DestroyerDarkNess/DX9ImHook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&theme=radical" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&theme=radical" width="320px">
   </a>
-  <a href="https://github.com/DestroyerDarkNess/RenderSpy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=RenderSpy&theme=radical" width="320px">
-  </a>
+ 
 </p>
 
 ---
