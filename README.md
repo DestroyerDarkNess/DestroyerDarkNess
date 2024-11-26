@@ -1,64 +1,41 @@
-### Hi I'm Destroyer DarkNess 👋
+# Hi, I'm Destroyer DarkNess! 👋
 
-🔰Contact me on my Discord: Destroyer#8328.
+Welcome to my GitHub profile! If you need help, 📫 Contact Me, Discord: **Destroyer#8328** 
 
----  
-
+# 📊 GitHub Stats  
 <p align="center">
-  	<img src="https://github-readme-stats.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical">
-   <br>  	
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&theme=radical">
-   <br>  
-    <img width=100% src="https://github-profile-trophy.vercel.app/?username=DestroyerDarkNess&column=10"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 500px; height: auto;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&theme=radical" alt="Top Languages" style="width: 380px; height: auto;">
+ <br>
+   <img src="https://github-profile-trophy.vercel.app/?username=DestroyerDarkNess&column=10&theme=radical" width="100%" alt="Trophies">
 </p>
 
----  
 
-<a href="https://profile-counter.glitch.me/DestroyerDarkNess/count.svg"><p align="center"> ⚡ Visitor count ⚡ <br> <img src="https://profile-counter.glitch.me/DestroyerDarkNess/count.svg" /></a>
+# ⚡ Visitor Count  
+<p align="center">
+   <img src="https://profile-counter.glitch.me/DestroyerDarkNess/count.svg" alt="Visitor Count">
+</p>
 
-<!-- Pinned Repositories  -->
-#### Pinned
+
+# 📌 Pinned Repositories  
 
 <p align="center">
-<a href="https://github.com/DestroyerDarkNess/XylonV2">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=XylonV2&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/DestroyerDarkNess/Unmanaged.Net">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Unmanaged.Net&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
-  <hr>
+  <a href="https://github.com/DestroyerDarkNess/EasyImGui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=EasyImGui&theme=radical" width="400px">
+  </a>
+  <a href="https://github.com/DestroyerDarkNess/Unmanaged.Net">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Unmanaged.Net&theme=radical" width="320px">
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/DestroyerDarkNess/DX9ImHook">
-<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
-   <span>&nbsp;</span>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&theme=radical" width="400px">
+  </a>
   <a href="https://github.com/DestroyerDarkNess/RenderSpy">
-<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=RenderSpy&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
-      <br><br>
-     <a href="https://github.com/DestroyerDarkNess/NETBuilderInjection">
-<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=NETBuilderInjection&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
-          <span>&nbsp;</span>
-  <a href="https://github.com/DestroyerDarkNess/Universal.FPS.Counter">
-<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Universal.FPS.Counter&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
-</a>
-         <hr>
-  <a href="https://github.com/DestroyerDarkNess/Wallpapers-HQ">
-<img width='40%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Wallpapers-HQ&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
-  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=RenderSpy&theme=radical" width="320px">
+  </a>
 </p>
 
+---
 
-<!--
-**DestroyerDarkNess/DestroyerDarkNess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting! 🎉
