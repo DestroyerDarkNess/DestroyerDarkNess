@@ -21,18 +21,18 @@ Welcome to my GitHub profile! If you need help, 📫 Contact Me, Discord: **Dest
 
 <p align="center">
   <a href="https://github.com/DestroyerDarkNess/EasyImGui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=EasyImGui&theme=radical" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=EasyImGui&theme=radical" width="30%">
   </a>
   <a href="https://github.com/DestroyerDarkNess/Unmanaged.Net">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Unmanaged.Net&theme=radical" width="320px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=Unmanaged.Net&theme=radical" width="30%">
   </a>
 </p>
 <p align="center">
     <a href="https://github.com/DestroyerDarkNess/RenderSpy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=RenderSpy&theme=radical" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=RenderSpy&theme=radical" width="30%">
   </a>
   <a href="https://github.com/DestroyerDarkNess/DX9ImHook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&theme=radical" width="320px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&theme=radical" width="30%">
   </a>
  
 </p>
