@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! If you need help, 📫 Contact Me, Discord: **Destroyer#8328** | Discord Server : 
 
-![Discord Banner 2](https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner2)
+[![Discord Banner 2](https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner2)](https://discord.gg/C4evgU4Tas)
 
 # 📊 GitHub Stats  
 <p align="center">
