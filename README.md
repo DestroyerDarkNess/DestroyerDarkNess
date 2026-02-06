@@ -69,7 +69,7 @@
   <img src="assets/divider_01.png" width="80%">
 </p>
 
-## <img src="https://api.iconify.design/mdi/chart-areaspline.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> GitHub Analytics
+## 
 
 <p align="center">
   <table>
