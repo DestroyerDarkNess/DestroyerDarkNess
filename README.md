@@ -133,6 +133,7 @@
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:400px;" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="GitHub Stats" style="width:100%; max-width:400px;" /> 
       </td>
     </tr>
   </table>
