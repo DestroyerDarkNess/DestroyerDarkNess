@@ -16,41 +16,53 @@
 
 ---
 
-## <img src="https://api.iconify.design/mdi/account-tie.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Professional Profile
-**Software Developer & Automation Engineer | 5+ Years of Experience**
-*Creating robust automations and cross-platform native solutions.*
+<h2 align="center"><img src="https://api.iconify.design/mdi/account-tie.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Professional Profile</h2>
+<p align="center">
+  <b>Software Developer & Automation Engineer | 5+ Years of Experience</b><br>
+  <i>Creating robust automations and cross-platform native solutions.</i>
+</p>
 
-### <img src="https://api.iconify.design/mdi/microsoft-windows.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Native & Desktop (.NET)**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_6+-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-003399?style=for-the-badge&logo=visual-studio&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<h3 align="center"><img src="https://api.iconify.design/mdi/microsoft-windows.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Native & Desktop (.NET)</h3>
+<p align="center">
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET_6+-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![VB.NET](https://img.shields.io/badge/VB.NET-003399?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+</p>
 
-### <img src="https://api.iconify.design/mdi/spider-thread.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Web Reverse Engineering & Automation**
-![Unofficial_APIs](https://img.shields.io/badge/Unofficial_APIs_Development-000000?style=for-the-badge&logo=generic&logoColor=white)
-![API_RE](https://img.shields.io/badge/REST_API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
-![Bots_Crawlers](https://img.shields.io/badge/Bots_Spiders_Crawlers-FF6600?style=for-the-badge&logo=generic&logoColor=white)
-![Web_Scraping](https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white)
+<h3 align="center"><img src="https://api.iconify.design/mdi/spider-thread.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Web Reverse Engineering & Automation</h3>
+<p align="center">
+  ![Unofficial_APIs](https://img.shields.io/badge/Unofficial_APIs_Development-000000?style=for-the-badge&logo=generic&logoColor=white)
+  ![API_RE](https://img.shields.io/badge/REST_API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
+  ![Bots_Crawlers](https://img.shields.io/badge/Bots_Spiders_Crawlers-FF6600?style=for-the-badge&logo=generic&logoColor=white)
+  ![Web_Scraping](https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white)
+</p>
 
-### <img src="https://api.iconify.design/mdi/security.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Cybersecurity & Malware Research**
-![Malware_Dev](https://img.shields.io/badge/Malware_Development-8B0000?style=for-the-badge&logo=generic&logoColor=white)
-![Malware_Analysis](https://img.shields.io/badge/Malware_Analysis-00008B?style=for-the-badge&logo=generic&logoColor=white)
-![Reverse_Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
+<h3 align="center"><img src="https://api.iconify.design/mdi/security.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Cybersecurity & Malware Research</h3>
+<p align="center">
+  ![Malware_Dev](https://img.shields.io/badge/Malware_Development-8B0000?style=for-the-badge&logo=generic&logoColor=white)
+  ![Malware_Analysis](https://img.shields.io/badge/Malware_Analysis-00008B?style=for-the-badge&logo=generic&logoColor=white)
+  ![Reverse_Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
+</p>
 
-### <img src="https://api.iconify.design/mdi/robot-industrial.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Automation & AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging_Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=generic&logoColor=white)
+<h3 align="center"><img src="https://api.iconify.design/mdi/robot-industrial.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Automation & AI</h3>
+<p align="center">
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  ![Hugging_Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=generic&logoColor=white)
+</p>
 
-### <img src="https://api.iconify.design/mdi/layers-triple.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Full Stack & Mobile**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vanilla_JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<h3 align="center"><img src="https://api.iconify.design/mdi/layers-triple.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Full Stack & Mobile</h3>
+<p align="center">
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Vanilla_JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+</p>
 
 ---
 
