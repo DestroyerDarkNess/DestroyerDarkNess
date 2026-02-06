@@ -100,11 +100,7 @@
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,linux,docker,cmake" />
   </a>
 </p>
-
-<p align="center">
-  <img src="assets/divider_01.png" width="80%">
-</p>
-
+ 
 ## <img src="https://api.iconify.design/mdi/pin.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Pinned Repositories
 
 <p align="center">
@@ -125,7 +121,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider_01.png" width="80%">
+  <img src="assets/divider_02.png" width="80%">
 </p>
 
 <p align="center">
