@@ -65,11 +65,11 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
+## 
+
 <p align="center">
   <img src="assets/divider_01.png" width="80%">
 </p>
-
-## 
 
 <p align="center">
   <table>
@@ -90,9 +90,6 @@
     </tr>
   </table>
 </p>
-
-
-<h2 align="center"><img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Technical Skills</h2>
 
 <p align="center">
   <b>Programming & Frameworks:</b><br>
