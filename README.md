@@ -16,7 +16,7 @@
 
 <h2 align="center"><img src="https://api.iconify.design/mdi/account-tie.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Professional Profile</h2>
 <p align="center">
-  <b>Software Developer & Automation Engineer | 5+ Years of Experience</b><br>
+  <b>Software Developer & Reverse Engineer | 5+ Years of Experience</b><br>
   <i>Creating robust software and cross-platform native solutions.</i>
 </p>
 
