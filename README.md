@@ -37,12 +37,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=DestroyerDarkNess&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
 ## <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Technical Skills
 
 **Programming & Frameworks:**
