@@ -27,11 +27,16 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### <img src="https://api.iconify.design/mdi/xml.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Reverse Engineering & Scraping**
+### <img src="https://api.iconify.design/mdi/robot-industrial.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Automation & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging_Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=generic&logoColor=white)
+![Automation](https://img.shields.io/badge/Process_Automation-444444?style=for-the-badge&logo=generic&logoColor=white)
+
+### <img src="https://api.iconify.design/mdi/xml.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Reverse Engineering & Scraping**
 ![API_RE](https://img.shields.io/badge/API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
 ![Web_Scraping](https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white)
-![Automation](https://img.shields.io/badge/Process_Automation-444444?style=for-the-badge&logo=generic&logoColor=white)
 
 ### <img src="https://api.iconify.design/mdi/layers-triple.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Full Stack & Mobile**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
