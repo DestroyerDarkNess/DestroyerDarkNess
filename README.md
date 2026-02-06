@@ -34,8 +34,10 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=generic&logoColor=white)
 ![Automation](https://img.shields.io/badge/Process_Automation-444444?style=for-the-badge&logo=generic&logoColor=white)
 
-### <img src="https://api.iconify.design/mdi/xml.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Reverse Engineering & Scraping**
-![API_RE](https://img.shields.io/badge/API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
+### <img src="https://api.iconify.design/mdi/security.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Cybersecurity & Malware Research**
+![Malware_Dev](https://img.shields.io/badge/Malware_Development-8B0000?style=for-the-badge&logo=generic&logoColor=white)
+![Malware_Analysis](https://img.shields.io/badge/Malware_Analysis-00008B?style=for-the-badge&logo=generic&logoColor=white)
+![Reverse_Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
 ![Web_Scraping](https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white)
 
 ### <img src="https://api.iconify.design/mdi/layers-triple.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Full Stack & Mobile**
