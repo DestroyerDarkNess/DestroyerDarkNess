@@ -18,29 +18,27 @@
 
 ## <img src="https://api.iconify.design/mdi/account-tie.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Professional Profile
 **Software Developer & Automation Engineer | 5+ Years of Experience**
-*Creating native solutions, robust automations, and cross-platform applications.*
+*Creating robust automations and cross-platform native solutions.*
 
----
+### <img src="https://api.iconify.design/mdi/microsoft-windows.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Native & Desktop (.NET)**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_6+-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-003399?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### <img src="https://api.iconify.design/mdi/microsoft-windows.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Native Windows Development (.NET)
-- Expert in the **Microsoft ecosystem** (.NET 6+, Core, Framework).
-- Building high-performance desktop apps (GUI/CLI) and background services with **C# & VB.NET**.
-- Custom UI development with **Windows Forms** and database integration (SQL Server, SQLite).
+### <img src="https://api.iconify.design/mdi/xml.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Reverse Engineering & Scraping**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![API_RE](https://img.shields.io/badge/API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
+![Web_Scraping](https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white)
+![Automation](https://img.shields.io/badge/Process_Automation-444444?style=for-the-badge&logo=generic&logoColor=white)
 
-### <img src="https://api.iconify.design/mdi/xml.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Reverse Engineering & Advanced Scraping
-- Deep knowledge in **API Reverse Engineering** to consume direct endpoints.
-- Developing stable, fast, and resource-efficient data extraction systems.
-- Complete flow automation: session management, authentication, and data transformation.
-
-### <img src="https://api.iconify.design/mdi/robot-industrial.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Automation & Data Processing (Python)
-- Core development of **ETL/RPA** scripts and backend process automation.
-- Integration of **Machine Learning** models (Transformers, Scikit-learn) for NLP and data analysis.
-- Building microservices, REST APIs, and CLI tools for technical operations.
-
-### <img src="https://api.iconify.design/mdi/layers-triple.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Full Stack & Mobile
-- **Backend:** Scalable server logic and APIs with **Node.js (TS/JS)**.
-- **Frontend:** Clean and modular architecture using **Vanilla JS (ES6+)**.
-- **Mobile:** Cross-platform native apps using **Tauri & Android**.
+### <img src="https://api.iconify.design/mdi/layers-triple.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> **Full Stack & Mobile**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vanilla_JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
