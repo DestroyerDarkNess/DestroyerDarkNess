@@ -65,15 +65,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="18" height="18" style="vertical-align: middle;"> <b>Contact:</b> Destroyer#8328 | <b>Community:</b>
-</p>
 
-<p align="center">
-  <a href="https://discord.gg/C4evgU4Tas">
-    <img src="https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner3" alt="Discord Server">
-  </a>
-</p>
 
 ## <img src="https://api.iconify.design/mdi/chart-areaspline.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> GitHub Analytics
 
@@ -134,6 +126,15 @@
       <td width="50%" align="center">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:400px;" />
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="GitHub Stats" style="width:100%; max-width:400px;" /> 
+        <p align="center">
+          <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="18" height="18" style="vertical-align: middle;"> <b>Contact:</b> Destroyer#8328 | <b>Community:</b>
+        </p>
+
+        <p align="center">
+          <a href="https://discord.gg/C4evgU4Tas">
+            <img src="https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner3" alt="Discord Server">
+          </a>
+        </p>
       </td>
     </tr>
   </table>
