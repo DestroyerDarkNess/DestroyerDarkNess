@@ -71,18 +71,18 @@
   <table>
     <tr>
       <td width="42%" align="center">
-        <img src="https://i.pinimg.com/736x/73/8a/d4/738ad4e2b3c4705a259654ae2d3955cf.jpg" alt="117" style="width:100%; max-width:320px; border-radius: 8px;" />
+        <img src="https://i.pinimg.com/736x/73/8a/d4/738ad4e2b3c4705a259654ae2d3955cf.jpg" alt="117" style="width:100%; max-width:220px; border-radius: 8px;" />
       </td>
       <td width="58%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:340px;" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:240px;" />
         <br>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="width:100%; max-width:340px;" /> 
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="width:100%; max-width:240px;" /> 
         <br>
         <a href="https://discord.gg/C4evgU4Tas">
-          <img src="https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner3" alt="Discord Server" style="width:100%; max-width:340px; margin-top: 5px;">
+          <img src="https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner3" alt="Discord Server" style="width:100%; max-width:240px; margin-top: 5px;">
         </a>
         <br>
-        <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="14" height="14" style="vertical-align: middle;"> <span style="font-size: 12px; color: #8b949e;">Destroyer#8328</span>
+        <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="14" height="14" style="vertical-align: middle;"> <span style="font-size: 11px; color: #8b949e;">Destroyer#8328</span>
       </td>
     </tr>
   </table>
