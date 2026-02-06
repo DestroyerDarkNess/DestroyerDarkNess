@@ -24,44 +24,44 @@
 
 <h3 align="center"><img src="https://api.iconify.design/mdi/microsoft-windows.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Native & Desktop (.NET)</h3>
 <p align="center">
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET_6+-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![VB.NET](https://img.shields.io/badge/VB.NET-003399?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET_6+-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/VB.NET-003399?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VB.NET">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
 <h3 align="center"><img src="https://api.iconify.design/mdi/spider-thread.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Web Reverse Engineering & Automation</h3>
 <p align="center">
-  ![Unofficial_APIs](https://img.shields.io/badge/Unofficial_APIs_Development-000000?style=for-the-badge&logo=generic&logoColor=white)
-  ![API_RE](https://img.shields.io/badge/REST_API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
-  ![Bots_Crawlers](https://img.shields.io/badge/Bots_Spiders_Crawlers-FF6600?style=for-the-badge&logo=generic&logoColor=white)
-  ![Web_Scraping](https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white)
+  <img src="https://img.shields.io/badge/Unofficial_APIs_Development-000000?style=for-the-badge&logo=generic&logoColor=white" alt="Unofficial APIs">
+  <img src="https://img.shields.io/badge/REST_API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white" alt="API RE">
+  <img src="https://img.shields.io/badge/Bots_Spiders_Crawlers-FF6600?style=for-the-badge&logo=generic&logoColor=white" alt="Bots & Crawlers">
+  <img src="https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white" alt="Advanced Scraping">
 </p>
 
 <h3 align="center"><img src="https://api.iconify.design/mdi/security.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Cybersecurity & Malware Research</h3>
 <p align="center">
-  ![Malware_Dev](https://img.shields.io/badge/Malware_Development-8B0000?style=for-the-badge&logo=generic&logoColor=white)
-  ![Malware_Analysis](https://img.shields.io/badge/Malware_Analysis-00008B?style=for-the-badge&logo=generic&logoColor=white)
-  ![Reverse_Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white)
+  <img src="https://img.shields.io/badge/Malware_Development-8B0000?style=for-the-badge&logo=generic&logoColor=white" alt="Malware Dev">
+  <img src="https://img.shields.io/badge/Malware_Analysis-00008B?style=for-the-badge&logo=generic&logoColor=white" alt="Malware Analysis">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white" alt="Reverse Engineering">
 </p>
 
 <h3 align="center"><img src="https://api.iconify.design/mdi/robot-industrial.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Automation & AI</h3>
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![Hugging_Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-  ![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=generic&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=generic&logoColor=white" alt="Transformers">
 </p>
 
 <h3 align="center"><img src="https://api.iconify.design/mdi/layers-triple.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Full Stack & Mobile</h3>
 <p align="center">
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Vanilla_JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JS">
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
 ---
