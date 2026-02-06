@@ -76,10 +76,10 @@
       <td width="58%" align="center">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:80%; max-width:140px;" />
         <br>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="width:100%; max-width:240px;" /> 
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="width:80%; max-width:140px;" /> 
         <br>
         <a href="https://discord.gg/C4evgU4Tas">
-          <img src="https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner3" alt="Discord Server" style="width:100%; max-width:240px; margin-top: 5px;">
+          <img src="https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner3" alt="Discord Server" style="width:80%; max-width:140px; margin-top: 5px;">
         </a>
         <br>
         <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="14" height="14" style="vertical-align: middle;"> <span style="font-size: 11px; color: #8b949e;">Destroyer#8328</span>
