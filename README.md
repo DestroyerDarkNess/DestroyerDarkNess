@@ -70,11 +70,25 @@
 ## <img src="https://api.iconify.design/mdi/chart-areaspline.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/DestroyerDarkNess">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://i.pinimg.com/736x/73/8a/d4/738ad4e2b3c4705a259654ae2d3955cf.jpg" alt="Epic Gojo" style="width:100%; max-width:400px; border-radius: 10px;" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:400px;" />
+        <br><br>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="width:100%; max-width:400px;" /> 
+        <br><br>
+        <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="18" height="18" style="vertical-align: middle;"> <b>Contact:</b> Destroyer#8328<br>
+        <a href="https://discord.gg/C4evgU4Tas">
+          <img src="https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner3" alt="Discord Server" style="width:100%; max-width:400px; margin-top: 10px;">
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 <h2 align="center"><img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Technical Skills</h2>
 
@@ -109,32 +123,6 @@
   <a href="https://github.com/DestroyerDarkNess/DX9ImHook">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DestroyerDarkNess&repo=DX9ImHook&theme=radical" width="45%">
   </a>
-</p>
-
----
-
----
-
-<h2 align="center"><img src="https://api.iconify.design/mdi/chart-line.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Activity Metrics</h2>
-
-<p align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://i.pinimg.com/736x/73/8a/d4/738ad4e2b3c4705a259654ae2d3955cf.jpg" alt="Epic Gojo" style="width:100%; max-width:400px; border-radius: 10px;" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:400px;" />
-        <br><br>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="width:100%; max-width:400px;" /> 
-        <br><br>
-        <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="18" height="18" style="vertical-align: middle;"> <b>Contact:</b> Destroyer#8328<br>
-        <a href="https://discord.gg/C4evgU4Tas">
-          <img src="https://discord.com/api/guilds/1327640073348317235/widget.png?style=banner3" alt="Discord Server" style="width:100%; max-width:400px; margin-top: 10px;">
-        </a>
-      </td>
-    </tr>
-  </table>
 </p>
 
 ---
