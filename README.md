@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.png" width="80%">
+  <img src="assets/divider_01.png" width="80%">
 </p>
 
 <h2 align="center"><img src="https://api.iconify.design/mdi/account-tie.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Professional Profile</h2>
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.png" width="80%">
+  <img src="assets/divider_01.png" width="80%">
 </p>
 
 ## <img src="https://api.iconify.design/mdi/chart-areaspline.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> GitHub Analytics
@@ -128,7 +128,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.png" width="80%">
+  <img src="assets/divider_01.png" width="80%">
 </p>
 
 <p align="center">
