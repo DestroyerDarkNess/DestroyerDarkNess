@@ -16,11 +16,37 @@
 
 ---
 
-## <img src="https://api.iconify.design/mdi/account-circle.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> About Me
-- <img src="https://api.iconify.design/lucide/shield.svg?color=%238892b0" width="18" height="18" style="vertical-align: middle;"> Developing tools for **Reverse Engineering, Game Modding, and UI Frameworks**.
-- <img src="https://api.iconify.design/mdi/hammer-wrench.svg?color=%238892b0" width="18" height="18" style="vertical-align: middle;"> Expert in **C#, C++, Rust, and Game Engine Internals (DirectX/ImGui)**.
-- <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="18" height="18" style="vertical-align: middle;"> Contact me on Discord: **Destroyer#8328**
-- <img src="https://api.iconify.design/mdi/controller-classic.svg?color=%238892b0" width="18" height="18" style="vertical-align: middle;"> Join my Discord Server:
+## <img src="https://api.iconify.design/mdi/account-tie.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Professional Profile
+**Software Developer & Automation Engineer | 5+ Years of Experience**
+*Creating native solutions, robust automations, and cross-platform applications.*
+
+---
+
+### <img src="https://api.iconify.design/mdi/microsoft-windows.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Native Windows Development (.NET)
+- Expert in the **Microsoft ecosystem** (.NET 6+, Core, Framework).
+- Building high-performance desktop apps (GUI/CLI) and background services with **C# & VB.NET**.
+- Custom UI development with **Windows Forms** and database integration (SQL Server, SQLite).
+
+### <img src="https://api.iconify.design/mdi/xml.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Reverse Engineering & Advanced Scraping
+- Deep knowledge in **API Reverse Engineering** to consume direct endpoints.
+- Developing stable, fast, and resource-efficient data extraction systems.
+- Complete flow automation: session management, authentication, and data transformation.
+
+### <img src="https://api.iconify.design/mdi/robot-industrial.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Automation & Data Processing (Python)
+- Core development of **ETL/RPA** scripts and backend process automation.
+- Integration of **Machine Learning** models (Transformers, Scikit-learn) for NLP and data analysis.
+- Building microservices, REST APIs, and CLI tools for technical operations.
+
+### <img src="https://api.iconify.design/mdi/layers-triple.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Full Stack & Mobile
+- **Backend:** Scalable server logic and APIs with **Node.js (TS/JS)**.
+- **Frontend:** Clean and modular architecture using **Vanilla JS (ES6+)**.
+- **Mobile:** Cross-platform native apps using **Tauri & Android**.
+
+---
+
+<p align="center">
+  <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" width="18" height="18" style="vertical-align: middle;"> <b>Contact:</b> Destroyer#8328 | <b>Community:</b>
+</p>
 
 <p align="center">
   <a href="https://discord.gg/C4evgU4Tas">
