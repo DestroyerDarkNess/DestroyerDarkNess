@@ -33,7 +33,7 @@
 <h3 align="center"><img src="https://api.iconify.design/mdi/spider-thread.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Web Reverse Engineering & Automation</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Unofficial_APIs_Development-000000?style=for-the-badge&logo=generic&logoColor=white" alt="Unofficial APIs">
-  <img src="https://img.shields.io/badge/REST_API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white" alt="API RE">
+  <img src="https://img.shields.io/badge/REST_API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white" alt="API REST">
   <img src="https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white" alt="Advanced Scraping">
 </p>
 
@@ -122,7 +122,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider_02.png" width="80%">
+  <img src="assets/separator.png" width="80%">
 </p>
 
 <p align="center">
