@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DestroyerDarkNess/DestroyerDarkNess/main/brain/140029b7-941f-4b85-afe6-92edb242995f/destroyer_darkness_banner_1770395345860.png" alt="Destroyer DarkNess Banner" width="100%">
+  <img src="https://i.pinimg.com/originals/b4/95/db/b495dbf67071e1e428a365bae25db7b9.gif" alt="Destroyer DarkNess Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Destroyer DarkNess! <img src="https://api.iconify.design/mdi/hand-wave.svg?color=%238892b0" width="30" height="30" style="vertical-align: middle;"></h1>
