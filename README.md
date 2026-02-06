@@ -121,21 +121,21 @@
 
 ---
 
-<h2 align="center"><img src="https://api.iconify.design/mdi/domain.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Current Organization</h2>
+---
+
+<h2 align="center"><img src="https://api.iconify.design/mdi/chart-line.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Activity Metrics</h2>
 
 <p align="center">
-  <a href="https://hirme.org" style="text-decoration: none;">
-    <table border="0" cellpadding="10" cellspacing="0" width="500" style="border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117;">
-      <tr>
-        <td style="border-left: 4px solid #5865F2;">
-          <img src="https://www.google.com/s2/favicons?domain=hirme.org&sz=32" width="16" height="16" style="vertical-align: middle;"> 
-          <span style="color: #8b949e; font-size: 12px;">hirme.org</span><br>
-          <span style="color: #58a6ff; font-size: 16px; font-weight: bold;">Hirme Labs – Full-Stack Software & AI Engineering Partner</span><br>
-          <span style="color: #c9d1d9; font-size: 14px;">Focused on full-stack software and AI engineering. Transform complex ideas and workflows into clear, reliable software solutions.</span>
-        </td>
-      </tr>
-    </table>
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://i.pinimg.com/736x/73/8a/d4/738ad4e2b3c4705a259654ae2d3955cf.jpg" alt="Epic Gojo" style="width:100%; max-width:400px; border-radius: 10px;" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:400px;" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
