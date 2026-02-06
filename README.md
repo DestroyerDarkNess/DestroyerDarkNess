@@ -61,17 +61,21 @@
   </a>
 </p>
 
-## <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Technical Skills
+<h2 align="center"><img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Technical Skills</h2>
 
-**Programming & Frameworks:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,rust,dotnet,js,ts,python,html,css)](https://skillicons.dev)
+<p align="center">
+  <b>Programming & Frameworks:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,rust,dotnet,js,ts,python,html,css" />
+  </a>
+</p>
 
-<br>
-
-**Tools & Platforms:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,linux,docker,cmake)](https://skillicons.dev)
+<p align="center">
+  <b>Tools & Platforms:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,linux,docker,cmake" />
+  </a>
+</p>
 
 ## <img src="https://api.iconify.design/mdi/pin.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Pinned Repositories
 
