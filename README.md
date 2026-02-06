@@ -14,10 +14,6 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FDestroyerDarkNess&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="profile views">
 </p>
 
-<p align="center">
-  <img src="assets/divider_01.png" width="80%">
-</p>
-
 <h2 align="center"><img src="https://api.iconify.design/mdi/account-tie.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Professional Profile</h2>
 <p align="center">
   <b>Software Developer & Automation Engineer | 5+ Years of Experience</b><br>
@@ -103,6 +99,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,linux,docker,cmake" />
   </a>
+</p>
+
+<p align="center">
+  <img src="assets/divider_01.png" width="80%">
 </p>
 
 ## <img src="https://api.iconify.design/mdi/pin.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Pinned Repositories
