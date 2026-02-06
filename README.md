@@ -36,7 +36,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Unofficial_APIs_Development-000000?style=for-the-badge&logo=generic&logoColor=white" alt="Unofficial APIs">
   <img src="https://img.shields.io/badge/REST_API_Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white" alt="API RE">
-  <img src="https://img.shields.io/badge/Bots_Spiders_Crawlers-FF6600?style=for-the-badge&logo=generic&logoColor=white" alt="Bots & Crawlers">
   <img src="https://img.shields.io/badge/Advanced_Scraping-FF6600?style=for-the-badge&logo=generic&logoColor=white" alt="Advanced Scraping">
 </p>
 
