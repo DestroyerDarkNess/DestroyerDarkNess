@@ -121,6 +121,25 @@
 
 ---
 
+<h2 align="center"><img src="https://api.iconify.design/mdi/earth.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Featured Project</h2>
+
+<p align="center">
+  <a href="https://hirme.org" style="text-decoration: none;">
+    <table border="0" cellpadding="10" cellspacing="0" width="500" style="border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117;">
+      <tr>
+        <td style="border-left: 4px solid #5865F2;">
+          <img src="https://www.google.com/s2/favicons?domain=hirme.org&sz=32" width="16" height="16" style="vertical-align: middle;"> 
+          <span style="color: #8b949e; font-size: 12px;">hirme.org</span><br>
+          <span style="color: #58a6ff; font-size: 16px; font-weight: bold;">Hirme Labs – Full-Stack Software & AI Engineering Partner</span><br>
+          <span style="color: #c9d1d9; font-size: 14px;">Focused on full-stack software and AI engineering. Transform complex ideas and workflows into clear, reliable software solutions.</span>
+        </td>
+      </tr>
+    </table>
+  </a>
+</p>
+
+---
+
 <p align="center">
   Thanks for visiting! <img src="https://api.iconify.design/mdi/party-popper.svg?color=%238892b0" width="18" height="18" style="vertical-align: middle;"> Keep building amazing things.
 </p>
