@@ -121,7 +121,7 @@
 
 ---
 
-<h2 align="center"><img src="https://api.iconify.design/mdi/earth.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Featured Project</h2>
+<h2 align="center"><img src="https://api.iconify.design/mdi/domain.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Current Organization</h2>
 
 <p align="center">
   <a href="https://hirme.org" style="text-decoration: none;">
