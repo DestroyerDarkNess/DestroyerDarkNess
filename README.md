@@ -74,7 +74,7 @@
         <img src="https://i.pinimg.com/736x/73/8a/d4/738ad4e2b3c4705a259654ae2d3955cf.jpg" alt="117" style="width:100%; max-width:220px; border-radius: 8px;" />
       </td>
       <td width="58%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:240px;" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DestroyerDarkNess&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:80%; max-width:140px;" />
         <br>
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DestroyerDarkNess&layout=compact&langs_count=8&theme=radical" alt="Top Languages" style="width:100%; max-width:240px;" /> 
         <br>
