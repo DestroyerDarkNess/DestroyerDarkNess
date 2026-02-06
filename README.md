@@ -39,16 +39,20 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DestroyerDarkNess&theme=radical&hide_border=true"/>
+    <img title="🔥" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=DestroyerDarkNess&theme=radical&hide_border=true"/>
   </a>
 </p>
 
 ## <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Technical Skills
 
 **Programming & Frameworks:**
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,rust,dotnet,js,ts,py,html,css)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,rust,dotnet,js,ts,python,html,css)](https://skillicons.dev)
+
+<br>
 
 **Tools & Platforms:**
+<br>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,linux,docker,cmake)](https://skillicons.dev)
 
 ## <img src="https://api.iconify.design/mdi/pin.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Pinned Repositories
