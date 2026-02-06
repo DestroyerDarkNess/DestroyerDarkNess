@@ -42,7 +42,7 @@
 <h3 align="center"><img src="https://api.iconify.design/mdi/security.svg?color=%238892b0" width="20" height="20" style="vertical-align: middle;"> Cybersecurity & Malware Research</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Malware_Development-8B0000?style=for-the-badge&logo=generic&logoColor=white" alt="Malware Dev">
-  <img src="https://img.shields.io/badge/Malware_Analysis-00008B?style=for-the-badge&logo=generic&logoColor=white" alt="Malware Analysis">
+  <img src="https://img.shields.io/badge/Malware_Analysis-FFFFFF?style=for-the-badge&logo=generic&logoColor=black" alt="Malware Analysis">
   <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=generic&logoColor=white" alt="Reverse Engineering">
 </p>
 
