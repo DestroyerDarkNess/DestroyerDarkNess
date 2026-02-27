@@ -14,6 +14,12 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FDestroyerDarkNess&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="profile views">
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=DestroyerDarkNess&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=1" alt="github trophies">
+  </a>
+</p>
+
 <h2 align="center"><img src="https://api.iconify.design/mdi/account-tie.svg?color=%238892b0" width="24" height="24" style="vertical-align: middle;"> Professional Profile</h2>
 <p align="center">
   <b>Software Developer & Reverse Engineer | 5+ Years of Experience</b><br>
