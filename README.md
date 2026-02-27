@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=DestroyerDarkNess&theme=darkhub&no-frame=true&no-bg=true&column=10&margin-w=1" alt="github trophies">
+    <img src="https://github-trophies.vercel.app/?username=DestroyerDarkNess&theme=darkhub&no-frame=true&no-bg=true&column=10&margin-w=1&title=-AncientUser,-NewUser,-Organizations" alt="github trophies">
   </a>
 </p>
 
